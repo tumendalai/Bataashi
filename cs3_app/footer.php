@@ -1,0 +1,1 @@
+<div class="footer"><span>copyrigth 2020</span></div>
